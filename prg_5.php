@@ -7,5 +7,5 @@
 
   $sql = "INSERT INTO `schvote`.`티볼` (`name`) VALUES ('a')";
   $result = mysqli_query($conn, $sql);
-  header('Location: ./prg_  done.php');
+  header('Location: ./prg_done.php');
 ?>
