@@ -5,7 +5,7 @@
 
   $name = mysqli_real_escape_string($conn, 'a');
 
-  $sql = "INSERT INTO `schvote`.`티볼` (`name`) VALUES ('a')";
+  $sql = "INSERT INTO `schvote`.`teeball` (`name`) VALUES ('a')";
   $result = mysqli_query($conn, $sql);
   header('Location: ./prg_done.php');
 ?>
