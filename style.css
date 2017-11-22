@@ -1,6 +1,6 @@
-@import url(//fonts.googleapis.com/earlyaccess/notosanskr.css); 
+@import url(//fonts.googleapis.com/earlyaccess/notosanskr.css);
 body{
-  font-family:Noto Sans CJK KR;
+  font-family:Noto Sans KR;
   font-style:black:
 }
 body.white{
@@ -24,17 +24,17 @@ body.black{
   margin-bottom:40px;
 }
 h1{
-  font-family:Noto Sans CJK KR;
+  font-family:Noto Sans KR;
   font-style:black:
 }
 h2{
-  font-family:Noto Sans CJK KR;
+  font-family:Noto Sans KR;
   font-style:bold;
 }
 #login {
   font-size:50px;
   font-weight:bold;
-  font-family:Noto Sans CJK KR;
+  font-family:Noto Sans KR;
   text-align: left;
 }
 #lotext {
